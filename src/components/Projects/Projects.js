@@ -22,8 +22,8 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="Home Care"
+              description="A full-stack service booking platform built with React, Node.js, and MongoDB. Features secure user authentication, dynamic service category filtering, and seamless doorstep appointment scheduling with an interactive UI."
               ghLink="https://github.com/garvittsoni/Home-Care-Full-Stack-Project"
               demoLink="https://homezocare.vercel.app/"
             />
@@ -33,8 +33,8 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="Food Hub"
+              description="A modern food ordering web app built using the MERN stack and Tailwind CSS. Includes dynamic food menu browsing, category-based item filtering, and real-time shopping cart management for a smooth checkout experience."
               ghLink="https://github.com/garvittsoni/Food-Hub-Full-Stack-Projectt."
               demoLink="https://food-hub-full-stack-projectt.vercel.app/"              
             />
